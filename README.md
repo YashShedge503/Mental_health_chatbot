@@ -30,12 +30,3 @@ AI chatbot designed to provide mental health advice. It's built using Streamlit,
    ```bash
    streamlit run app.py
    ```
-
-## Usage
-Simply type in your mental health-related questions or concerns, and the chatbot will provide relevant advice and information.
-
-## Contributions
-Contributions are welcome! Please create an issue or submit a pull request.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
